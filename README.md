@@ -25,5 +25,3 @@ The chatbot can recognize the intent behind the user's questions and extract imp
 Contributing
 We welcome contributions to improve the Health Website and its features. If you find any issues or have ideas for enhancements, please feel free to submit a pull request.
 
-License
-[Include license information, e.g., MIT License, Apache License, etc.]
