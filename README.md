@@ -20,7 +20,7 @@ Azure Static Web Apps: The website is hosted using Azure Static Web Apps, provid
 1) This site was built using [AZURE STATIC WEB APPS](https://agreeable-sea-08fe88610.3.azurestaticapps.net/)
 2) This site was built using [AZURE HEALTH BOT](https://webchat.botframework.com/embed/healthbot-oynge0n?s=ZAKnVuI4TKc.Rz87lX-vQlnED2f4XXXbBF1vTHIp3sWWEYC3RSAyAbU)
 
-# Chatbot AI
+# Azure AI Chatbot 
 
 The chatbot can recognize the intent behind the user's questions and extract important entities to provide accurate and relevant information. It continuously learns from user interactions to improve its responses over time.
 
