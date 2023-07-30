@@ -18,7 +18,7 @@ Search Functionality: Users can easily search for specific health topics or arti
 Azure Static Web Apps: The website is hosted using Azure Static Web Apps, providing a scalable and efficient hosting solution.
 2 services of azure is used in this project
 1) This site was built using [AZURE STATIC WEB APPS](https://agreeable-sea-08fe88610.3.azurestaticapps.net/)
-2) This site was built using [AZURE HEALTH BOT](https://agreeable-sea-08fe88610.3.azurestaticapps.net/)
+2) This site was built using [AZURE HEALTH BOT](https://webchat.botframework.com/embed/healthbot-oynge0n?s=ZAKnVuI4TKc.Rz87lX-vQlnED2f4XXXbBF1vTHIp3sWWEYC3RSAyAbU)
 
 Chatbot AI
 Our Health Chatbot is powered by Dialogflow API, a powerful natural language understanding platform developed by Google. Dialogflow allows the chatbot to process user queries and generate appropriate responses using machine learning and natural language processing techniques.
